@@ -1,0 +1,12 @@
+#text-area {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.8rem;
+}
+
+.container {
+    height: 100vh;
+}
+
+mark {
+    border-radius: 5px;
+}
